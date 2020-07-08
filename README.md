@@ -5,15 +5,29 @@
 
 ## 5.0
 
+#### Available on the Apple App Store
+
 1. [Perception: Print Comes Alive](https://apps.apple.com/us/app/perception-print-comes-alive/id1462238514) Find Perception - Enabled images on our developer website below. Perception is a platform designed and built to enhance printed media. It adds video experiences using Augmented Reality. Perception was born from a desire to know more about the shows advertised on posters during our commute. I
 2. [Stellar: AR Solar System](https://apps.apple.com/us/app/stellar-ar-solar-system/id1462100049) Stellar: AR Solar System is a new take on the exploration of the Solar System. Built with augmented reality technology, Stellar turns your device into an interactive planetarium right in front of you.
 3. [Elite: Sports Ranking System](https://apps.apple.com/us/app/elite-sports-ranking-system/id1462184046) Elite Sports Ranking System a fresh new way to play basketball and handball with your friends! Elite offers a Leaderboard system for the public handball and basketball courts of New York City
 
 ## 4.0 
 
+#### Github Repositories
+
+1. [WYD](https://github.com/dementedcactus/placeholderName) Plan an event in seconds, make memories for a lifetime.
+2. [TestInk](https://github.com/melissahe/TestInk) TestInk, a tattoo preview app: "All the fun without regrets!"
+3. [wmsy](https://github.com/lynksdomain/wmsy_/tree/qa) Meeting people on a whim
+3. [SpotSwap](https://github.com/Yaseen-al/SpotSwap/tree/qa) Swap a parking spot
+4. [dAte](https://github.com/wsmaragh/FoodNLove) Dating based on your food preference.
+5. [Phase](https://github.com/reiaz-gafar/Phase) Phase puts emphasis on the evolution of a journey.
+
+
 ## 3.0 
 
 ## 2.0
+
+#### Available on the Apple App Store
 
 1. [Zetron](https://apps.apple.com/us/app/zetron/id1060650919)
 The evil Zetron virus has landed on Earth, and one of your friends is infected! Run, jump, and join the chase in this awesome active multiplayer game. 
