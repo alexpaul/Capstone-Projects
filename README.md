@@ -12,7 +12,7 @@
 
 #### 6.1 Projects (TODO: add github links) 
 
-1. Scout Masters 
+1. [Scout Masters](https://github.com/Jason-Ruan/ScoutMaster)
 2. [Quavi](https://github.com/msystang/quavi)
 3. Kwiz Games
 4. ArtSpace Exchange 
