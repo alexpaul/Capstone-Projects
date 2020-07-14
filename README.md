@@ -5,10 +5,10 @@
 #### 6.3 Github Repositories
 
 1. [CareerView](https://github.com/AmeniAlsaydi/Capstone) CareerView is the organizational tool for job seekers. Record all your past / present work experiences and use it as an easy reference for future potential employers.
-2. [ShareSpace](https://github.com/AmeniAlsaydi/Capstone) This application connects directly people who have extra empty space: office rooms, garages, backyards etc. and people who want to rest such spaces. 
-3. [SuShare](https://github.com/AmeniAlsaydi/Capstone) SuShare aims to solve the difficult problem of incentivizing savings. 
-4. [Coasts](https://github.com/AmeniAlsaydi/Capstone) Coasts is an application that aims to promote awareness about climate change. 
-5. [InTune](https://github.com/AmeniAlsaydi/Capstone) InTune is an app where artists can show off their skills and make a living. InTune connects artists and enthusiasts, creating a virtual community and a networking system.
+2. [ShareSpace](https://github.com/bienbenidoangeles/ShareSpace) This application connects directly people who have extra empty space: office rooms, garages, backyards etc. and people who want to rest such spaces. 
+3. [SuShare](https://github.com/MatthewRamos1/SuShare) SuShare aims to solve the difficult problem of incentivizing savings. 
+4. [Coasts](https://github.com/ahadislam1/Coastlines) Coasts is an application that aims to promote awareness about climate change. 
+5. [InTune](https://github.com/TiffanyObi/InTune) InTune is an app where artists can show off their skills and make a living. InTune connects artists and enthusiasts, creating a virtual community and a networking system.
 
 #### 6.1 Projects (TODO: add github links) 
 
