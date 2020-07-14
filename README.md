@@ -13,7 +13,7 @@
 #### 6.1 Projects (TODO: add github links) 
 
 1. Scout Masters 
-2. Quavi
+2. [Quavi](https://github.com/msystang/quavi)
 3. Kwiz Games
 4. ArtSpace Exchange 
 5. TruView Listing 
