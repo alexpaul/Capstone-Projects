@@ -15,7 +15,7 @@
 1. [Scout Masters](https://github.com/Jason-Ruan/ScoutMaster)
 2. [Quavi](https://github.com/msystang/quavi)
 3. [Kwiz Games](https://github.com/KevinNatera/Kwiz)
-4. ArtSpace Exchange 
+4. [ArtSpace Exchange](https://github.com/jocelyn-boyd/Capstone-ArtSpace)
 5. TruView Listing 
 6. Abtive
 7. Quavi 
